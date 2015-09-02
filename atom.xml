@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Rainstorms Blog]]></title>
   <link href="http://rainstorms.github.io/atom.xml" rel="self"/>
   <link href="http://rainstorms.github.io/"/>
-  <updated>2015-08-31T18:04:38+08:00</updated>
+  <updated>2015-09-02T16:08:56+08:00</updated>
   <id>http://rainstorms.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[rainstorms]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[F U C K !]]></title>
+    <title type="html"><![CDATA[f u c k !]]></title>
     <link href="http://rainstorms.github.io/blog/2015/08/31/f-u-c-k/"/>
     <updated>2015-08-31T17:05:01+08:00</updated>
     <id>http://rainstorms.github.io/blog/2015/08/31/f-u-c-k</id>
